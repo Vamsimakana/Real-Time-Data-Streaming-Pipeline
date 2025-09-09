@@ -1,0 +1,12 @@
+realtime-streaming-pipeline/
+├─ docker-compose.yml
+├─ producer/
+│  ├─ producer.py
+│  └─ requirements.txt
+├─ spark-job/
+│  ├─ job.py
+│  └─ requirements.txt
+├─ api/
+│  ├─ main.py
+│  └─ requirements.txt
+└─ README.md
